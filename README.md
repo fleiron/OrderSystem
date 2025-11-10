@@ -11,7 +11,7 @@ order-system/
 ├── order-processing/ # Обробка замовлень (OrderProcessor)
 ├── order-storage/ # Сховище замовлень (OrderStorage)
 ├── order-concurrent/ # Потоки для обробки замовлень
-└── order-app/ # Головний модуль з Main.java
+└── order-app/ # Головний модуль з Main.java 
 
 yaml
 Копіювати код
