@@ -13,8 +13,7 @@ order-system/
 ├── order-concurrent/ # Потоки для обробки замовлень
 └── order-app/ # Головний модуль з Main.java 
 
-yaml
-Копіювати код
+
 
 ---
 
