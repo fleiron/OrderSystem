@@ -35,13 +35,13 @@ order-model, order-processing, order-storage, order-concurrent, order-app
 
 3️⃣ Запуск програми
 bash
-Копіювати код
+
 cd order-app
 mvn exec:java -Dexec.mainClass=com.example.order.app.Main -DskipTests
 ✅ Приклад виводу
 
 yaml
-Копіювати код
+
 Processed order of Electronics: міцний дерев’яний гаманець, price: 1042.06, thread: pool-2-thread-1
 Processed order of Clothing: неймовірний шерстяний стіл, price: 200.78, thread: pool-2-thread-4
 All stored orders: 10
